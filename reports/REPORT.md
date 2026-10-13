@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Trang Phước Hoàng Minh — MSV 2A202602690  **Commit:** …  **Điểm tự động (`make grade`):** 84 / 88
+**Họ tên / nhóm:** Trang Phước Hoàng Minh — MSV 2A202602690  **Commit:** `12fd630`  **Điểm tự động (`make grade`):** 84 / 88
 (4 điểm còn lại là dữ liệu SLO ẩn do giảng viên chấm; `make grade --seeds 25,26,27` cũng cho 84/88, mọi băng PASS trên cả 3 seed)
 
 > Số liệu lấy từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`, `reports/cache/*.json` (seed 25).
